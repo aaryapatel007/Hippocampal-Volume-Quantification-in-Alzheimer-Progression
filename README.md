@@ -144,7 +144,9 @@ Now that we have built a radiological AI system and given it to clinicians, we c
 
 Validation Plan is shown in `Deploy/validation_plan.md`.
 
+## Acknowledgement
 
+This project has been completed as a part of [AI for Healthcare](https://www.udacity.com/course/ai-for-healthcare-nanodegree--nd320).
 ## License
 
 This project is licensed under the terms of MIT License.
