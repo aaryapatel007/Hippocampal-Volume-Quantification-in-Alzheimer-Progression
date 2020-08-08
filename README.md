@@ -24,7 +24,7 @@ There is one problem with measuring the volume of the hippocampus using MRI scan
 
 As you might have guessed by now, we are going to build a piece of AI software that could help clinicians perform this task faster and more consistently.
 
-You have seen throughout the course that a large part of AI development effort is taken up by curating the dataset and proving clinical efficacy. In this project, we will focus on the technical aspects of building a segmentation model and integrating it into the clinician's workflow, leaving the dataset curation and model validation questions largely outside the scope of this project.
+In this project, we will focus on the technical aspects of building a segmentation model and integrating it into the clinician's workflow.
 
 ## Aim
 
